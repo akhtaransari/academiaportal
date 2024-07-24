@@ -124,7 +124,7 @@ Replace `your_postgresql_username` and `your_postgresql_password` with your actu
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/akhtaransari/academia-portal.git
+   git clone https://github.com/akhtaransari/academiaportal.git
    cd academia-portal
    ```
 
